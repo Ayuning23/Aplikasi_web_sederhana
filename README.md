@@ -85,6 +85,8 @@ Penerapan teknik keamanan dasar seperti hashing password, rate limiting, dan val
 ---
 
 ## 5. Author
-Nama : Ayu  
-Mata Kuliah : Keamanan Data  
+Nama : Sri Ayu Ningsih  
+NIM  : C2C023131
+Kelas: Reguler (D)
+Mata Kuliah : Keamanan Data Dan Informasi
 Tahun : 2026
